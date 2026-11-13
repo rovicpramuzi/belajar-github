@@ -1,0 +1,11 @@
+BELAJAR GITHUB
+
+Nama: Bejo
+
+Pelajaran pertama:
+1. Mengenal GitHub
+2. Membuat Repository
+3. Membuat file pertama
+
+Tujuan:
+Belajar IT dan otomatisasi pekerjaan kantor.
