@@ -9,3 +9,5 @@ Pelajaran pertama:
 
 Tujuan:
 Belajar IT dan otomatisasi pekerjaan kantor.
+Pelajaran kedua:
+Saya sudah memahami fungsi Commit.
